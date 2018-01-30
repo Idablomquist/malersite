@@ -1,6 +1,12 @@
----
-title: "Blogpost_4"
-date: 2018-01-29T17:16:34+01:00
----
++++
+image = ""
+showonlyimage = false
+date = "2016-11-05T19:50:47+05:30"
+title = "Malerarbejde"
+weight = 3
++++
 
-Dette er blogpost nr 4
+Magna eruditionem quamquam cillum quibusdam, cupidatat nam culpa eu pariatur 
+amet mandaremus iis arbitror dolore vidisse. In ex enim tamen noster iis ita 
+incididunt e cupidatat. Duis mentitum e tractavissent eu lorem hic ab culpa 
+tempor. O de amet velit labore, quamquam do enim nostrud, nulla ea quibusdam ubi doctrina aut consequat. 

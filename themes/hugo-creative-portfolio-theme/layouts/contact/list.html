@@ -6,8 +6,7 @@
             <div class="content-column-content">
                 <h1>{{ .Title }}</h1>
                 {{ .Content }}
-                <br>
-                <h5>Du er velkommen til at kontakte mig her:</h5>
+                <h4>Du er velkommen til at kontakte mig her:</h4>
                 <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/{{ . }}">
                     <div class="controls">
                         <div class="form-group">
@@ -28,7 +27,7 @@
                     </div>
                 </form>
                 <br>
-                <h5>Du kan også finde mig her:</h5>
+                <h4>Du kan også finde mig her:</h4>
                 {{ partial "social_buttons_in_contact.html" . }} {{ with .Site.Params.email }} {{ end }}
             </div>
         </div>
