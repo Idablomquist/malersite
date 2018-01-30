@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://idablomquist.dk/kea/malersite/portfolio/work4/</loc>
+    <lastmod>2018-01-29T17:16:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://idablomquist.dk/kea/malersite/portfolio/work3/</loc>
+    <lastmod>2018-01-29T17:16:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://idablomquist.dk/kea/malersite/portfolio/work2/</loc>
+    <lastmod>2018-01-29T17:16:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://idablomquist.dk/kea/malersite/portfolio/work1/</loc>
+    <lastmod>2018-01-29T17:16:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://idablomquist.dk/kea/malersite/contact/</loc>
+    <lastmod>2018-01-29T17:15:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://idablomquist.dk/kea/malersite/about/</loc>
+    <lastmod>2018-01-29T17:15:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://idablomquist.dk/kea/malersite/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://idablomquist.dk/kea/malersite/</loc>
+    <lastmod>2018-01-29T17:16:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://idablomquist.dk/kea/malersite/portfolio/</loc>
+    <lastmod>2018-01-29T17:16:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://idablomquist.dk/kea/malersite/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
