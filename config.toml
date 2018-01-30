@@ -10,9 +10,9 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
-  description = "Describe your website"
-  copyright = "&copy;2018 Malerfirmaet Mortensen"
+  style = "green"
+  description = "Portfolie for Maler Mortensen"
+  copyright = "&copy;2018 Maler Mortensen"
   sidebarAbout = [
     "Malerfirmaet Mortensen er det lokale valg af maler i Lyngby, København og Nordsjælland. Arbejdet udføres af Malermester Sean Mortensen, som med over 10 års erfaring altid sørger for at arbejdet udføres ordentlig og i højeste kvalitet.",
     "Jeg kører i: Lyngby, København, Hillerød, Helsingør, Gilleleje og resten af Nordsjælland."
@@ -29,12 +29,12 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "idax472i@kea.stud.dk"
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
-  url = "_Index.md"
+  name = "My work"
+  url = "/"
 
   [[params.navlinks]]
   name = "About"
@@ -43,11 +43,10 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Get in touch"
   url = "contact/"
-  
-  [[params.navlinks]]
-  name = "My work"
-  url = "blog/"
+
 
   [params.social]
   facebook      = "https://www.facebook.com/malermortensen/?hc_ref=ARSVLBshABJnMt7mCQgXUTSFvYjElu7kHHtu9FDJmqbvaG7-e2UVUlOQARGCoFqkBOA&fref=nf"
   instagram     = "https://www.instagram.com/malerm.dk/"
+  linkedin      = "https://www.linkedin.com/company/11427408/"
+  email         = "email@example.com"
