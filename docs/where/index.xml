@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Om mig igen on Maler Mortensen</title>
+    <link>http://idablomquist.dk/kea/malersite/where/</link>
+    <description>Recent content in Om mig igen on Maler Mortensen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2018</copyright>
+    <lastBuildDate>Mon, 29 Jan 2018 17:15:50 +0100</lastBuildDate>
+    
+	<atom:link href="http://idablomquist.dk/kea/malersite/where/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hvor jeg udfører arbejde</title>
+      <link>http://idablomquist.dk/kea/malersite/where/where_i_work/</link>
+      <pubDate>Mon, 29 Jan 2018 17:15:50 +0100</pubDate>
+      
+      <guid>http://idablomquist.dk/kea/malersite/where/where_i_work/</guid>
+      <description>Med adresse i Lyngby, kommer vi ud til malerarbejde i Nordsjælland og i København. Kontakt os - og et uforpligtende tilbud på dit malerarbejde.
+Jeg kører i:  Lyngby København Hillerød Helsingør Gilleleje  &amp;hellip; og resten af Nordsjælland.</description>
+    </item>
+    
+  </channel>
+</rss>
