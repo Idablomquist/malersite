@@ -1,4 +1,4 @@
-baseurl = "http://idablomquist.dk/kea/malersite-test/"
+baseurl = "http://idablomquist.dk/kea/malersite/"
 title = "Maler Mortensen"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
